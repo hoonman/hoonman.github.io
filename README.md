@@ -1,3 +1,0 @@
-# hoonman.github.io
-
-hello
